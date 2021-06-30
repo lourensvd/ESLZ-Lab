@@ -29,7 +29,7 @@ if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -List
 }
 ````
 
-## Optional
+## 2. Prepare DevOps environment for Infrastructure-as-Code (Optional)
 
 1. Install Visual Studio Code
 
@@ -39,4 +39,6 @@ https://code.visualstudio.com/
 
 https://desktop.github.com/
 
-## 2. Set up GitHub account
+3. Set up GitHub account
+
+Sign up for a GitHub account at https://github.com
