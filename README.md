@@ -1,9 +1,9 @@
-# Prepare for deploying ESLZ
+# Prepare for deploying Enterprise-scale reference architecture
 ## 1. Set up workstation
 
 1.1 Install PowerShell 7.1.x
 
-https://github.com/PowerShell/PowerShell/releases/tag/v7.1.3
+https://aka.ms/powershell-release?tag=stable
 
 1.2 Update the Execution Policy.
 
@@ -14,7 +14,7 @@ Get-ExecutionPolicy
 if ((Get-ExecutionPolicy) -ne "RemoteSigned") { Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process -Force }
 ````
 
-1.3 Update the Execution Policy.
+1.3 Install PowerShell Az modules.
 
 ````powershell
 # Install latest NuGet provider
