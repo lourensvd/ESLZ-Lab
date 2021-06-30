@@ -29,7 +29,7 @@ if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -List
 }
 ````
 
-## 2. Prepare DevOps environment for Infrastructure-as-Code (Optional)
+## 2. Prepare DevOps environment for Infrastructure-as-Code
 
 1. Install Visual Studio Code
 
