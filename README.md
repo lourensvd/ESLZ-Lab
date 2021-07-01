@@ -5,7 +5,7 @@
 
 https://aka.ms/powershell-release?tag=stable
 
-1.2 Update the Execution Policy.
+1.2 Update the Execution Policy in PowerShell.
 
 ````powershell
 # Get the Execution Policy on the system, and make note of it before making changes
