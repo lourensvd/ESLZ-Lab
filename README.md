@@ -37,15 +37,15 @@ https://code.visualstudio.com/
 
 2. Install Git
 
-a. For Git use within Visual Studio Code
+    a. For Git use within Visual Studio Code
 
-https://git-scm.com/downloads
+        https://git-scm.com/downloads
 
-b. For Git use outside Visual Studio Code
+    b. For Git use outside Visual Studio Code
 
-Install GitHub Desktop
+        Install GitHub Desktop
 
-https://desktop.github.com/
+        https://desktop.github.com/
 
 3. Set up GitHub account
 
