@@ -3,7 +3,7 @@
 
 1.1 Install PowerShell 7.1.x
 
-https://aka.ms/powershell-release?tag=stable
+    https://aka.ms/powershell-release?tag=stable
 
 1.2 Open PowerShell 7 in Admin mode and update the Execution Policy.
 
@@ -33,7 +33,7 @@ if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -List
 
 1. Install Visual Studio Code
 
-https://code.visualstudio.com/
+    https://code.visualstudio.com/
 
 2. Install Git
 
@@ -49,4 +49,4 @@ https://code.visualstudio.com/
 
 3. Set up GitHub account
 
-Sign up for a GitHub account at https://github.com
+    Sign up for a GitHub account at https://github.com
