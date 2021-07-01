@@ -3,7 +3,7 @@
 
 1.1 Install PowerShell 7.1.x
 
-    https://aka.ms/powershell-release?tag=stable
+https://aka.ms/powershell-release?tag=stable
 
 1.2 Open PowerShell 7 in Admin mode and update the Execution Policy.
 
@@ -39,13 +39,13 @@ if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -List
 
     a. For Git use within Visual Studio Code
 
-        https://git-scm.com/downloads
+    https://git-scm.com/downloads
 
     b. For Git use outside Visual Studio Code
 
-        Install GitHub Desktop
+    Install GitHub Desktop
 
-        https://desktop.github.com/
+    https://desktop.github.com/
 
 3. Set up GitHub account
 
