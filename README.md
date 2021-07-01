@@ -36,6 +36,7 @@ if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -List
 https://code.visualstudio.com/
 
 2. Install Git
+
 a. For Git use within Visual Studio Code
 
 https://git-scm.com/downloads
