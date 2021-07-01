@@ -5,7 +5,7 @@
 
 https://aka.ms/powershell-release?tag=stable
 
-1.2 Update the Execution Policy in PowerShell.
+1.2 Open PowerShell 7 in Admin mode and update the Execution Policy.
 
 ````powershell
 # Get the Execution Policy on the system, and make note of it before making changes
@@ -35,7 +35,14 @@ if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -List
 
 https://code.visualstudio.com/
 
-2. Install GitHub Desktop (Optional)
+2. Install Git
+a. For Git use within Visual Studio Code
+
+https://git-scm.com/downloads
+
+b. For Git use outside Visual Studio Code
+
+Install GitHub Desktop
 
 https://desktop.github.com/
 
