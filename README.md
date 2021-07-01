@@ -35,7 +35,7 @@ if ($PSVersionTable.PSEdition -eq 'Desktop' -and (Get-Module -Name AzureRM -List
 
 https://code.visualstudio.com/
 
-2. Install GitHub Desktop
+2. Install GitHub Desktop (Optional)
 
 https://desktop.github.com/
 
